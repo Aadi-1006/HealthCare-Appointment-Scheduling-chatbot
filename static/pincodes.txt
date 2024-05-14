@@ -1,0 +1,21 @@
+530011-->
+Name:DR. M.Satyarao,
+contactnumber:0891-2709239,
+location:"malkapuram,beside postoffice",
+timings: 6:30pm-9:30pm,
+Specialist:ENT.
+
+500032-->
+Name:DR. Rajesh Kumar,
+contactnumber:040-23456789,
+location:"Banjara Hills, Road No. 12",
+timings: 9:00am-5:00pm,
+Specialist:General Physician.
+
+
+411027-->
+Name:Dr. XYZ,
+contactnumber:1234567890,
+location:"Some Location",
+timings: 9:00am-5:00pm,
+Specialist:General Physician.
