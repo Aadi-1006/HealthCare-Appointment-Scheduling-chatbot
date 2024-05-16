@@ -36,7 +36,7 @@ const ChatbotComponent: React.FC = () => {
     try {
       // Send user input to the Flask server
       const response = await axios.post<{ message: string }>(
-        "http://localhost:5000/chat",
+        "http://localhost:4501/chat",
         { message: userInput }
       );
       const chatbotResponse = response.data.message;
